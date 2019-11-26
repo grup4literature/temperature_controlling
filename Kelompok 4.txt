@@ -10,6 +10,3 @@ Anggota Kelompok :
 - Akza Noprian
 - Agung Purwanto
 - Rendi Irawan
-
-grup4literature/temperature_controlling
-psw : literature2019
